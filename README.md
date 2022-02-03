@@ -12,7 +12,7 @@ Simple age and gender detector using Machine Learning
 5.view results
 
 
-##To run this Model yourself
+## To run this Model yourself:
 1. Clone this repository
 2. Download the dataset from [here](https://www.kaggle.com/jangedoo/utkface-new)
 3. Extract the dataset to your repository folder
